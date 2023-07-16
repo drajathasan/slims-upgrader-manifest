@@ -1,0 +1,42 @@
+{
+    "release": {
+        "stable": "v9.6.1",
+        "develop": "develop"
+    },
+    "list_version": {
+        "1": "Senayan 3 - Stable 3",
+        "2": "Senayan 3 - Stable 4",
+        "3": "Senayan 3 - Stable 5",
+        "4": "Senayan 3 - Stable 6",
+        "5": "Senayan 3 - Stable 7",
+        "6": "Senayan 3 - Stable 8",
+        "7": "Senayan 3 - Stable 9",
+        "8": "Senayan 3 - Stable 10",
+        "9": "Senayan 3 - Stable 11",
+        "10": "Senayan 3 - Stable 12",
+        "11": "Senayan 3 - Stable 13",
+        "12": "Senayan 3 - Stable 14 | Seulanga",
+        "13": "Senayan 3 - Stable 15 | Matoa",
+        "14": "SLiMS 5 | Meranti",
+        "15": "SLiMS 7 | Cendana",
+        "16": "SLiMS 8 | Akasia",
+        "17": "SLiMS 8.2 | Akasia",
+        "18": "SLiMS 8.3 | Akasia",
+        "19": "SLiMS 8.3.1 | Akasia",
+        "20": "SLiMS 9.0.0 | Bulian",
+        "21": "SLiMS 9.1.0 | Bulian",
+        "22": "SLiMS 9.1.1 | Bulian",
+        "23": "SLiMS 9.2.0 | Bulian",
+        "24": "SLiMS 9.2.1 | Bulian",
+        "25": "SLiMS 9.2.2 | Bulian",
+        "26": "SLiMS 9.3.0 | Bulian",
+        "27": "SLiMS 9.3.1 | Bulian",
+        "28": "SLiMS 9.4.0 | Bulian",
+        "29": "SLiMS 9.4.1 | Bulian",
+        "30": "SLiMS 9.4.2 | Bulian",
+        "31": "SLiMS 9.5.0 | Bulian",
+        "32": "SLiMS 9.5.1 | Bulian",
+        "33": "SLiMS 9.5.2 | Bulian",
+        "34": "SLiMS 9.6.0 | Bulian"
+    }
+}
